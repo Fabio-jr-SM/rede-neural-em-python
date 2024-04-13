@@ -1,6 +1,3 @@
-Segue um exemplo de README.md que referencia o link fornecido para o vídeo do YouTube:
-
-```markdown
 # Rede Neural de Perceptron Simples
 
 Este projeto implementa um perceptron simples, uma rede neural com uma única entrada e um único neurônio. O objetivo do código é ajustar os pesos para que a saída da rede corresponda ao valor desejado para uma determinada entrada.
@@ -80,12 +77,3 @@ Para mais informações sobre o código, você pode assistir ao vídeo [neste li
 1. Clone este repositório ou baixe o código fonte.
 2. Execute o script Python.
 3. Acompanhe a saída no console para ver o progresso do aprendizado e as atualizações dos pesos.
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com o projeto enviando pull requests ou relatando problemas.
-
-## Licença
-
-Este projeto está sob a [licença MIT](LICENSE.md).
-```
