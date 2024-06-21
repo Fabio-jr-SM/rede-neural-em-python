@@ -3,7 +3,7 @@ import math
 # Definição das variáveis iniciais
 input = 0  # Entrada para a rede neural
 output_desire = 0  # Saída desejada (rótulo alvo)
-learning_rate = 0.1  # Taxa de aprendizado para o algoritmo de aprendizado
+learning_rate = 0.001  # Taxa de aprendizado para o algoritmo de aprendizado
 input_weight = 0.5  # Peso associado à entrada
 
 # Função de ativação: Retorna 1 se a soma for maior ou igual a 0, senão retorna 0
